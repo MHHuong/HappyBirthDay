@@ -28,7 +28,7 @@
     h4 {
         text-align: center;
         -webkit-text-fill-color: rgba(0, 200, 200, 0.1);
-        //-webkit-background-clip: text;
+        -webkit-background-clip: text;
         font-family: 'Allura', cursive;
         padding: -2%;
         font-size: 19px;
